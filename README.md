@@ -14,27 +14,25 @@ To help you build apps with lists, Android provides the RecyclerView. RecyclerVi
 In the sequence shown below, you can see that one view has been filled with data, ABC. After that view scrolls off the screen, RecyclerView reuses the view for new data, XYZ.
 
 <p align = "center">
-        <img src="raw_img/diag1.jpg" width = 100%>
+        <img src="raw_img/diag1.jpg" width = 50%>
         </p>
 
   There are a number of pieces involved in creating and using a RecyclerView. 
   The diagram below shows an overview, and you will learn more about each piece as you implement it.
 
-        * item - One data item of the list to display. Represents one Affirmation object in your app.
-        * Adapter - Takes data and prepares it for RecyclerView to display.
-        * ViewHolders - A pool of views for RecyclerView to use and reuse to display affirmations.
-        * RecyclerView - Views on screen
+* item - One data item of the list to display. Represents one Affirmation object in your app.
+* Adapter - Takes data and prepares it for RecyclerView to display.
+* ViewHolders - A pool of views for RecyclerView to use and reuse to display affirmations.
+* RecyclerView - Views on screen
         <p align = "center">
-        <img src="raw_img/diag.jpg" width = 100%>
+        <img src="raw_img/diag.jpg" width = 50%>
         </p>
         
 Here is a short video of running app:
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
   <tr>
-    <td align="center">
-      <figure class="video_container">
-        <iframe src="app_video/affirmations.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-      </figure>
+    <td align="center" float="left">
+      <img src="raw_gif/affirmations.gif" alt="Running App Video" width=100%>
     </td>
   </tr>
-</table>
+</table>                                                                                                                                         
