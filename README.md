@@ -29,10 +29,6 @@ In the sequence shown below, you can see that one view has been filled with data
         </p>
         
 Here is a short video of running app:
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-  <tr>
-    <td align="center" float="left">
-      <img src="raw_gif/affirmations.gif" alt="Running App Video" width=100%>
-    </td>
-  </tr>
-</table>                                                                                                                                         
+            
+  [![Affirmation App Shorts](https://img.youtube.com/vi/PuG_5C6n0ws/0.jpg)](https://www.youtube.com/watch?v=PuG_5C6n0ws)
+                                                                                                                                                                    
